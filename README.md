@@ -1,3 +1,3 @@
 testrepo
 ========
-Oops both branches made edits! Nano makes exclamation marks look cool.
+This repository is for me to further play around with git.
