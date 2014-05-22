@@ -1,0 +1,8 @@
+testrepo
+========
+This repository is for me to further play around with git.
+<<<<<<< HEAD
+poop
+=======
+Ok new change attempt 2
+>>>>>>> 1c3ea8aebd402a1e445e0890ef9c63e113510b63
