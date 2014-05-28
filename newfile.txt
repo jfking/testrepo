@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 This is a new file. sdfsdf
+=======
+ksjdflkjsdfljsdflkjThis is a new file.
+ 
+>>>>>>> 3db5a6971739fed591a0e66f07117264198b7021
